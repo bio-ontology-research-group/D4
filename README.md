@@ -1,2 +1,1 @@
-# D4
-deep drug-drug interaction discovery and demystification
+# D4: Deep Drug-drug interaction Discovery and Demystification
