@@ -15,7 +15,7 @@ The scripts require embedding files, which can be found: https://bio2vec.cbrc.ka
 - AUC.py: This scripts requires 1 input file that is the.pckl file to drew the AUC curve. 
 
 # Data
-- D4 predcitions of novel DDIs can be found at: https://bio2vec.cbrc.kaust.edu.sa/data/D4/predcitions/
+- D4 predcitions of novel DDIs can be found at: https://bio2vec.cbrc.kaust.edu.sa/data/D4/predictions/
 - D4 embeddings of all drugs can be found at: https://bio2vec.cbrc.kaust.edu.sa/data/D4/embeddings/
 
 # Citation
